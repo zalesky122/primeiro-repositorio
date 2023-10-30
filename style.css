@@ -1,0 +1,30 @@
+body {
+    background-color: #cccccc ;
+}
+
+img  {
+      width: 100%
+}      
+
+.apresentacao{
+
+}
+
+h1 {
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+}
+
+em strong {
+     color: red;
+}
+
+
+.beneficios{
+     background: #ffffff;
+     padding:20px
+    }
